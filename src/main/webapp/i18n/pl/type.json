@@ -1,0 +1,9 @@
+{
+  "awstryApp": {
+    "Type": {
+      "null": "",
+      "Kosztowa": "Kosztowa",
+      "Przychodowa": "Przychodowa"
+    }
+  }
+}
